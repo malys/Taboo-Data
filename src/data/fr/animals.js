@@ -1,0 +1,1 @@
+export const animals = require('./animals.json')

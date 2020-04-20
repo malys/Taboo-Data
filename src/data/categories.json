@@ -30,5 +30,16 @@
     "web": {
       "text": "Das Internet"
     }
+  },
+  "fr": {
+    "animals": {
+      "text": "Animaux"
+    },
+    "city-country": {
+      "text": "Déviner"
+    },
+    "things": {
+      "text": "Taboo"
+    }
   }
 }

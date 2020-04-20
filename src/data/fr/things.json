@@ -1,0 +1,288 @@
+{
+  "Cahier": [
+    "Ecrire",
+    "Ligne",
+    "Jour",
+    "Couverture"
+  ],
+  "Dictionnaire": [
+    "Mot",
+    "Vocabulaire",
+    "Alphabétique",
+    "Définition"
+  ],
+  "Stylo": [
+    "Ecrire",
+    "Bille",
+    "Plume",
+    "Capuchon"
+  ],
+  "Aimant": [
+    "Accrocher",
+    "Métal",
+    "Affiches",
+    "Rond"
+  ],
+  "Compas": [
+    "Tracer",
+    "Cercle",
+    "Rond",
+    "Outil"
+  ],
+  "Gomme": [
+    "Effacer",
+    "Crayon",
+    "Blanche",
+    "Plastique"
+  ],
+  "Classeur": [
+    "Feuilles",
+    "Intercalaires",
+    "Anneaux",
+    "Perforatrice"
+  ],
+  "Feutre": [
+    "Colorier",
+    "Capuchon",
+    "Couleur",
+    "Dessin"
+  ],
+  "Chaise": [
+    "Asseoir",
+    "Pied",
+    "Dossier",
+    "Barreaux"
+  ],
+  "Livre": [
+    "Page",
+    "Lire",
+    "Histoire",
+    "Roman"
+  ],
+  "Drap": [
+    "Tissus",
+    "Couette",
+    "Lit",
+    "Dormir",
+    "Manche",
+    "Miettes",
+    "Brosse",
+    "Sol"
+  ],
+  "Vélo": [
+    "Roue",
+    "Pédale",
+    "Guidon",
+    "Bicyclette"
+  ],
+  "Casserole": [
+    "Cuisine",
+    "Manche",
+    "Cuire",
+    "Eau"
+  ],
+  "Tableau": [
+    "Art",
+    "Peinture",
+    "Mur",
+    "Musée"
+  ],
+  "Clé": [
+    "Ouvrir",
+    "Porte",
+    "Serrure",
+    "Voiture"
+  ],
+  "Balais": [],
+  "Banane": [
+    "Fruit",
+    "Jaune",
+    "Singe",
+    "Régime"
+  ],
+  "Frites": [
+    "Pomme de terre",
+    "Friteuse",
+    "Sel",
+    "Bâtonnets"
+  ],
+  "Camembert": [
+    "Fromage",
+    "Lait",
+    "Vache",
+    "Normandie"
+  ],
+  "Pomme": [
+    "Fruit",
+    "Jus",
+    "Golden",
+    "Tarte"
+  ],
+  "Jambon": [
+    "Charcuterie",
+    "Porc",
+    "Rose",
+    "Tranche"
+  ],
+  "Salade": [
+    "Laitue",
+    "Vert",
+    "Feuille",
+    "Vinaigrette"
+  ],
+  "Tomate": [
+    "Légume",
+    "Rouge",
+    "Salade",
+    "Sauce"
+  ],
+  "Cacahuètes": [
+    "Apéritif",
+    "Singe",
+    "Salé",
+    "Gras"
+  ],
+  "Téléphone": [
+    "Appeler",
+    "Tactile",
+    "I-Phone",
+    "Messages"
+  ],
+  "Tablette": [
+    "I-Pad",
+    "Tactile",
+    "Application",
+    "Fragile"
+  ],
+  "Ordinateur": [
+    "Travail",
+    "Ecran",
+    "Souris",
+    "Clavier"
+  ],
+  "Télévision": [
+    "Emission",
+    "Regarder",
+    "Écran",
+    "Télécommande"
+  ],
+  "Console": [
+    "Jeu",
+    "Manette",
+    "Télévision",
+    "CD"
+  ],
+  "GPS": [
+    "Voiture",
+    "Position",
+    "Trajet",
+    "Écran"
+  ],
+  "Imprimante": [
+    "Documents",
+    "Couleur",
+    "Photocopie",
+    "Encre"
+  ],
+  "Vidéoprojecteur": [
+    "Film",
+    "Ecran",
+    "Ordinateur",
+    "Travail"
+  ],
+  "McDonald": [
+    "Hamburger",
+    "Frittes",
+    "Fast-food",
+    "Nuggets"
+  ],
+  "Décathlon": [
+    "Magasin",
+    "Sport",
+    "Matériel",
+    "Forme"
+  ],
+  "Coca Cola": [
+    "Boisson",
+    "Gazeuse",
+    "Soda",
+    "Rouge"
+  ],
+  "Nutella": [
+    "Tartiner",
+    "Chocolat",
+    "Noisettes",
+    "Pâte"
+  ],
+  "Adidas": [
+    "Sport",
+    "Bande",
+    "Jogging",
+    "Baskets"
+  ],
+  "Renault": [
+    "Voiture",
+    "Clio",
+    "Mégane",
+    "Française"
+  ],
+  "Auchan": [
+    "Magasin",
+    "Courses",
+    "Grande-surface",
+    "Rouge"
+  ],
+  "Panzani": [
+    "Pâtes",
+    "Sauce",
+    "Spaghettis",
+    "Coquilettes"
+  ],
+  "Football": [
+    "Club",
+    "Ballon",
+    "Gardien",
+    "PSG"
+  ],
+  "Tennis": [
+    "Raquette",
+    "Balle",
+    "Jaune",
+    "Roland Garros"],
+  "Natation": [
+    "Piscine",
+    "Nager",
+    "Plonger",
+    "Maillot"
+  ],
+  "Rugby": [
+    "Ballon",
+    "Ovale",
+    "Mêlée",
+    "Essai"
+  ],
+  "Basket": [
+    "Ballon",
+    "Panier",
+    "Dribble",
+    "Grand"
+  ],
+  "Athlétisme": [
+    "Course",
+    "Saut",
+    "Lancer",
+    "Stade"
+  ],
+  "Tir à l’arc": [
+    "Arc",
+    "Flèche",
+    "Cible",
+    "Viser"
+  ],
+  "Danse": [
+    "Chorégraphie",
+    "Gala",
+    "Spectacle",
+    "Musique"
+  ]
+}

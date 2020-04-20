@@ -1,0 +1,1 @@
+export const cityCountry = require('./city-country.json')

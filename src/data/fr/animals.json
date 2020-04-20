@@ -1,0 +1,50 @@
+{
+  "Vache": [
+    "Animal",
+    "Lait",
+    "Pré",
+    "Ferme"
+  ],
+  "Chèvre": [
+    "Fromage",
+    "Corne",
+    "Pré",
+    "Animal"
+  ],
+  "Cochon": [
+    "Animal",
+    "Jambon",
+    "Queue",
+    "Boue"
+  ],
+  "Baleine": [
+    "Mer",
+    "Animal",
+    "Grosse",
+    "Poisson"
+  ],
+  "Chat": [
+    "Animal",
+    "Griffes",
+    "Poil",
+    "Domestique"
+  ],
+  "Cheval": [
+    "Animal",
+    "Transport",
+    "Galop",
+    "Foin"
+  ],
+  "Singe": [
+    "Gorille",
+    "Chimpanzé",
+    "King-Kong",
+    "Jungle"
+  ],
+  "Araignée": [
+    "Pattes",
+    "Plafond",
+    "Insecte",
+    "Toile"
+  ]
+}

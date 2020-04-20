@@ -1,0 +1,1 @@
+export const cars = require('./cars.json')

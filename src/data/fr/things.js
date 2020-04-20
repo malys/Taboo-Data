@@ -1,0 +1,1 @@
+export const things= require('./things.json')
